@@ -154,5 +154,10 @@ Milestone 2: install a Windows 10 VM, configure Sysmon for detailed endpoint tel
 
 ## Screenshots
 
-- `screenshots/01-splunk-login.png` — Splunk login page reached from the Windows host
-- `screenshots/02-splunk-home.png` — Splunk home screen after successful admin login
+**Splunk login page reached from the Windows host:**
+
+![Splunk login page](../screenshots/01-splunk-login.png)
+
+**Splunk home screen after successful admin login:**
+
+![Splunk home screen](../screenshots/02-splunk-home.png)
