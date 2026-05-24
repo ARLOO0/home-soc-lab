@@ -195,5 +195,10 @@ Milestone 3: install Kali Linux as the attacker VM, run a first attack (likely a
 
 ## Screenshots
 
-- `Screenshots/03-sysmon-events-in-splunk.png` — Splunk search showing Sysmon events flowing in
-- `Screenshots/04-sysmon-event-details.png` — Expanded view of a single Sysmon event showing the rich field set
+**Splunk search showing Sysmon events flowing in:**
+
+![Sysmon events in Splunk](../Screenshots/03-sysmon-events-in-splunk.png)
+
+**Expanded view of a single Sysmon event showing the rich field set:**
+
+![Sysmon event details](../Screenshots/04-sysmon-event-details.png)
