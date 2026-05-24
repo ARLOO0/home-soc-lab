@@ -12,7 +12,7 @@ detection rules I wrote and tuned.
 ## Progress
 
 - [x] **Milestone 1** — [Splunk setup on Ubuntu](./docs/01-splunk-setup.md)
-- [ ] Milestone 2 — Windows endpoint with Sysmon, Splunk Universal Forwarder
+- [x] **Milestone 2** — [Windows endpoint with Sysmon and Splunk Forwarder](./docs/02-windows-instrumentation.md)
 - [ ] Milestone 3 — Attack simulation from Kali, first SPL detection
 - [ ] Milestone 4 — Additional attack scenarios mapped to MITRE ATT&CK
 - [ ] Milestone 5 — Investigation reports and final polish
